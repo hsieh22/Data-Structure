@@ -1,3 +1,3 @@
 # Data-Structure
 
-Different data structure in C++
+Different data structures in C++
